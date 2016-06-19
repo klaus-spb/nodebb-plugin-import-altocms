@@ -4,7 +4,7 @@ var async = require('async');
 var mysql = require('mysql');
 var _ = require('underscore');
 var noop = function(){};
-var logPrefix = '[nodebb-plugin-import-vbulletin]';
+var logPrefix = '[nodebb-plugin-import-altocms]';
 
 (function(Exporter) {
 
